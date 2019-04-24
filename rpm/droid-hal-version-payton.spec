@@ -6,6 +6,7 @@
 # Manufacturer and device name to be shown in UI
 %define vendor_pretty Motorola
 %define device_pretty Moto X4
+%define droid_target_armv7hl armv7hl
 
 # See ../droid-hal-version/droid-hal-device.inc for similar macros:
 %define have_vibrator_native 1
